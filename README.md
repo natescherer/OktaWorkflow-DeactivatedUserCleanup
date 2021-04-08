@@ -1,6 +1,6 @@
 # Okta Workflow: Deactivated User Cleanup
 
-An Okta Workflow to clean up deactivated users 7 days after they were deactivated.
+An Okta Workflow to delete deactivated users 7 days after they were deactivated.
 
 This project is unofficial and is neither developed nor supported by Okta.
 
