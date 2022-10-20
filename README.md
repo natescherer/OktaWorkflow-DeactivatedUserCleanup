@@ -4,6 +4,10 @@ An Okta Workflow to delete deactivated users 7 days after they were deactivated.
 
 This project is unofficial and is neither developed nor supported by Okta.
 
+## Archive Note
+
+This repository is now archived, as I no longer work with Okta in my day-to-day life. If you would like to take this repository over, please reach out to me on LinkedIn or Twitter, both linked in my bio. Cheers!
+
 ## Installing
 
 To install this workflow, follow these steps:
